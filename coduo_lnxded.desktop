@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Open CoD:UO Dedicated Server
+GenericName=Dedicated Game Server
+Comment=Open-source dedicated server for Call of Duty: United Offensive
+Exec=coduo_lnxded_recovered
+Icon=coduo_lnxded
+Terminal=true
+Categories=Game;ActionGame;
+Keywords=call of duty;united offensive;cod;uo;dedicated;server;multiplayer;
